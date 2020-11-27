@@ -1,0 +1,16 @@
+.jumbotron{
+  background-image: url(unnamed.JPG);
+  background-size: cover;
+  height: 650px;
+  text-align: center;
+}
+.jumbotron .display-4{
+  color: blue;
+}
+.card{
+  color: blue;
+}
+.img{
+  opacity: 0.4;
+    filter: alpha(opacity=40);
+}
